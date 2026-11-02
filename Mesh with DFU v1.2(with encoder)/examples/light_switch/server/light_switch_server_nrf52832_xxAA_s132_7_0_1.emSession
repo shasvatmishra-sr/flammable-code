@@ -1,0 +1,46 @@
+<!DOCTYPE CrossStudio_Session_File>
+<session>
+ <Bookmarks/>
+ <Breakpoints groups="Breakpoints" active_group="Breakpoints">
+  <Exceptions set="MemManage;UsageFault_Coprocessor;UsageFault_CheckingError;UsageFault_StateError;BusFault;ExceptionEntryReturnFault;HardFault"/>
+ </Breakpoints>
+ <ExecutionProfileWindow/>
+ <FrameBuffer/>
+ <Memory1/>
+ <Memory2/>
+ <Memory3/>
+ <Memory4/>
+ <Project>
+  <ProjectSessionItem path="light_switch_server_nrf52832_xxAA_s132_7.0.1"/>
+  <ProjectSessionItem path="light_switch_server_nrf52832_xxAA_s132_7.0.1;light_switch_server_nrf52832_xxAA_s132_7.0.1"/>
+  <ProjectSessionItem path="light_switch_server_nrf52832_xxAA_s132_7.0.1;light_switch_server_nrf52832_xxAA_s132_7.0.1;Application"/>
+  <ProjectSessionItem path="light_switch_server_nrf52832_xxAA_s132_7.0.1;light_switch_server_nrf52832_xxAA_s132_7.0.1;Dfu"/>
+ </Project>
+ <Register1/>
+ <Register2/>
+ <Register3/>
+ <Register4/>
+ <Threads>
+  <ThreadsWindow showLists=""/>
+ </Threads>
+ <TraceWindow>
+  <Trace enabled="Yes"/>
+ </TraceWindow>
+ <Watch1>
+  <Watches active="1" update="Never"/>
+ </Watch1>
+ <Watch2>
+  <Watches active="0" update="Never"/>
+ </Watch2>
+ <Watch3>
+  <Watches active="0" update="Never"/>
+ </Watch3>
+ <Watch4>
+  <Watches active="0" update="Never"/>
+ </Watch4>
+ <Files>
+  <SessionOpenFile windowGroup="DockEditLeft" x="9" y="45" useTextEdit="1" path="src/main.c" left="0" selected="1" top="1759" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="12881" useTextEdit="1" path="include/sdk_config.h" left="0" top="12840" codecName="Default"/>
+ </Files>
+ <EMStudioWindow activeProject="light_switch_server_nrf52832_xxAA_s132_7.0.1" fileDialogDefaultFilter="*.c" autoConnectTarget="J-Link" buildConfiguration="Debug" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="/Users/admin/Desktop/Testing/Relay Node sw_v1.1 hw_v1.0/Mesh with DFU v1.2(with encoder)/mesh/dfu/src" debugSearchPath="" autoConnectCapabilities="3199"/>
+</session>

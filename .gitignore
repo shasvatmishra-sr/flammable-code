@@ -1,0 +1,15 @@
+# Generated build files
+build/
+obj/
+Output/
+
+*.o
+*.obj
+*.elf
+*.map
+*.ind
+*.log
+
+# macOS metadata files
+._*
+.DS_Store

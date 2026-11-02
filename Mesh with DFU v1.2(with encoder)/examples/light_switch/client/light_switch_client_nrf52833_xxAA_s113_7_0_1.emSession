@@ -1,0 +1,105 @@
+<!DOCTYPE CrossStudio_Session_File>
+<session>
+ <Bookmarks/>
+ <Breakpoints groups="Breakpoints" active_group="Breakpoints">
+  <Exceptions set="MemManage;UsageFault_Coprocessor;UsageFault_CheckingError;UsageFault_StateError;BusFault;ExceptionEntryReturnFault;HardFault"/>
+ </Breakpoints>
+ <ExecutionProfileWindow/>
+ <FrameBufferWindow>
+  <FrameBufferWindow bufferHeight="-1" addressSpace="" addressText="" bufferWidth="-1"/>
+ </FrameBufferWindow>
+ <Memory1>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="light_switch_client_nrf52833_xxAA_s113_7.0.1" radix="16" sizeText="" addressText=""/>
+ </Memory1>
+ <Memory2>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="light_switch_client_nrf52833_xxAA_s113_7.0.1" radix="16" sizeText="" addressText=""/>
+ </Memory2>
+ <Memory3>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="light_switch_client_nrf52833_xxAA_s113_7.0.1" radix="16" sizeText="" addressText=""/>
+ </Memory3>
+ <Memory4>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="light_switch_client_nrf52833_xxAA_s113_7.0.1" radix="16" sizeText="" addressText=""/>
+ </Memory4>
+ <Project>
+  <ProjectSessionItem path="light_switch_client_nrf52833_xxAA_s113_7.0.1"/>
+  <ProjectSessionItem path="light_switch_client_nrf52833_xxAA_s113_7.0.1;light_switch_client_nrf52833_xxAA_s113_7.0.1"/>
+  <ProjectSessionItem path="light_switch_client_nrf52833_xxAA_s113_7.0.1;light_switch_client_nrf52833_xxAA_s113_7.0.1;Access"/>
+  <ProjectSessionItem path="light_switch_client_nrf52833_xxAA_s113_7.0.1;light_switch_client_nrf52833_xxAA_s113_7.0.1;Application"/>
+  <ProjectSessionItem path="light_switch_client_nrf52833_xxAA_s113_7.0.1;light_switch_client_nrf52833_xxAA_s113_7.0.1;Core"/>
+  <ProjectSessionItem path="light_switch_client_nrf52833_xxAA_s113_7.0.1;light_switch_client_nrf52833_xxAA_s113_7.0.1;DFU"/>
+  <ProjectSessionItem path="light_switch_client_nrf52833_xxAA_s113_7.0.1;light_switch_client_nrf52833_xxAA_s113_7.0.1;Drivers"/>
+  <ProjectSessionItem path="light_switch_client_nrf52833_xxAA_s113_7.0.1;light_switch_client_nrf52833_xxAA_s113_7.0.1;Generic OnOff Model"/>
+  <ProjectSessionItem path="light_switch_client_nrf52833_xxAA_s113_7.0.1;light_switch_client_nrf52833_xxAA_s113_7.0.1;nRF5 SDK"/>
+  <ProjectSessionItem path="light_switch_client_nrf52833_xxAA_s113_7.0.1;light_switch_client_nrf52833_xxAA_s113_7.0.1;Other"/>
+  <ProjectSessionItem path="light_switch_client_nrf52833_xxAA_s113_7.0.1;light_switch_client_nrf52833_xxAA_s113_7.0.1;Serial"/>
+  <ProjectSessionItem path="light_switch_client_nrf52833_xxAA_s113_7.0.1;light_switch_client_nrf52833_xxAA_s113_7.0.1;Toolchain"/>
+ </Project>
+ <Register1>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="light_switch_client_nrf52833_xxAA_s113_7.0.1" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register1>
+ <Register2>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="light_switch_client_nrf52833_xxAA_s113_7.0.1" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register2>
+ <Register3>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="light_switch_client_nrf52833_xxAA_s113_7.0.1" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register3>
+ <Register4>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="light_switch_client_nrf52833_xxAA_s113_7.0.1" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register4>
+ <Threads>
+  <ThreadsWindow showLists=""/>
+ </Threads>
+ <TraceWindow>
+  <Trace enabled="Yes"/>
+ </TraceWindow>
+ <Watch1>
+  <Watches active="1" update="Never"/>
+ </Watch1>
+ <Watch2>
+  <Watches active="0" update="Never"/>
+ </Watch2>
+ <Watch3>
+  <Watches active="0" update="Never"/>
+ </Watch3>
+ <Watch4>
+  <Watches active="0" update="Never"/>
+ </Watch4>
+ <Files>
+  <SessionOpenFile windowGroup="DockEditLeft" x="39" y="500" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="src/main.c" selected="1" top="942" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="8226" useTextEdit="1" openedFrom="C:/Users/Loka/Desktop/NRF MESH/Mesh with DFU/examples/light_switch/client/src/main.c" useBinaryEdit="0" left="0" path="include/sdk_config.h" selected="0" top="8213" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="49" useTextEdit="1" openedFrom="C:/Users/Loka/Desktop/NRF MESH/Mesh with DFU/examples/light_switch/client/src/main.c" useBinaryEdit="0" left="0" path="../include/light_switch_example_common.h" selected="0" top="26" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="338" useTextEdit="1" openedFrom="C:/Users/Loka/Desktop/Demo Project/Mesh with DFU v1.2(with encoder)/examples/light_switch/client/src/main.c" useBinaryEdit="0" left="0" path="../../../models/model_spec/generic_onoff/src/generic_onoff_client.c" selected="0" top="305" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="69" useTextEdit="1" openedFrom="C:/Users/Loka/Desktop/Demo Project/Mesh with DFU v1.2(with encoder)/models/model_spec/generic_onoff/src/generic_onoff_client.c" useBinaryEdit="0" left="0" path="../../../../nRF5_SDK_16.0.0_98a08e2/components/softdevice/s113/headers/nrf_error.h" selected="0" top="52" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="2" y="118" useTextEdit="1" openedFrom="E:/Mesh/Mesh Projects/Mesh SwitchPlate Node/Mesh with DFU v1.2(with encoder)/examples/light_switch/client/src/main.c" useBinaryEdit="0" left="0" path="../../../models/model_spec/generic_onoff/include/generic_onoff_client.h" selected="0" top="79" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="63" useTextEdit="1" openedFrom="C:/Users/Loka/Desktop/Demo Project/Mesh with DFU v1.2(with encoder)/models/model_spec/generic_onoff/src/generic_onoff_client.c" useBinaryEdit="0" left="0" path="../../../models/model_spec/generic_onoff/include/generic_onoff_messages.h" selected="0" top="47" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="127" useTextEdit="1" openedFrom="C:/Users/Loka/Desktop/Demo Project/Mesh with DFU v1.2(with encoder)/models/model_spec/generic_onoff/src/generic_onoff_client.c" useBinaryEdit="0" left="0" path="../../../models/model_spec/generic_onoff/include/generic_onoff_common.h" selected="0" top="40" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="240" useTextEdit="1" openedFrom="C:/Users/Loka/Desktop/Demo Project/Mesh with DFU v1.2(with encoder)/mesh/access/src/access.c" useBinaryEdit="0" left="0" path="../../../mesh/access/api/access.h" selected="0" top="211" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="89" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../nRF5_SDK_16.0.0_98a08e2/components/boards/pca10100.h" selected="0" top="38" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="51" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../mesh/serial/api/nrf_mesh_config_serial_uart.h" selected="0" top="35" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="64" useTextEdit="1" openedFrom="C:/Users/Loka/Desktop/Demo Project/Mesh with DFU v1.2(with encoder)/mesh/serial/include/serial_uart.h" useBinaryEdit="0" left="0" path="../../../mesh/serial/src/serial_uart.c" selected="0" top="64" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="426" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../mesh/serial/src/serial_bearer.c" selected="0" top="401" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="72" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../mesh/serial/include/serial_uart.h" selected="0" top="59" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="138" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../nRF5_SDK_16.0.0_98a08e2/modules/nrfx/mdk/system_nrf52833.c" selected="0" top="121" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="66" useTextEdit="1" openedFrom="C:/Users/Loka/Desktop/Demo Project/Mesh with DFU v1.2(with encoder)/examples/light_switch/client/src/main.c" useBinaryEdit="0" left="0" path="../../../mesh/core/api/mesh_config_entry.h" selected="0" top="49" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="219" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../mesh/bearer/src/advertiser.c" selected="0" top="204" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="213" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../mesh/core/src/timer_scheduler.c" selected="0" top="205" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="414" useTextEdit="1" openedFrom="C:/Users/Loka/Desktop/Demo Project/Mesh with DFU v1.2(with encoder)/mesh/core/src/timer_scheduler.c" useBinaryEdit="0" left="0" path="../../../mesh/core/src/bearer_event.c" selected="0" top="408" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="293" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="C:/Program Files/SEGGER/SEGGER Embedded Studio for ARM 4.52b/source/thumb_crt0.s" selected="0" top="278" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="358" useTextEdit="1" openedFrom="C:/Users/Loka/Desktop/Demo Project/Mesh with DFU v1.2(with encoder)/examples/light_switch/client/src/main.c" useBinaryEdit="0" left="0" path="../../../mesh/core/src/mesh_config.c" selected="0" top="329" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="174" useTextEdit="1" openedFrom="C:/Users/Loka/Desktop/Demo Project/Mesh with DFU v1.2(with encoder)/mesh/core/src/mesh_config.c" useBinaryEdit="0" left="0" path="../../../mesh/core/src/mesh_config_backend.c" selected="0" top="151" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="283" useTextEdit="1" openedFrom="C:/Users/Loka/Desktop/Demo Project/Mesh with DFU v1.2(with encoder)/mesh/core/src/mesh_config_backend.c" useBinaryEdit="0" left="0" path="../../../mesh/core/src/mesh_config_flashman_glue.c" selected="0" top="269" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="974" useTextEdit="1" openedFrom="C:/Users/Loka/Desktop/Demo Project/Mesh with DFU v1.2(with encoder)/mesh/core/src/mesh_config_flashman_glue.c" useBinaryEdit="0" left="0" path="../../../mesh/core/src/flash_manager.c" selected="0" top="988" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="1043" useTextEdit="1" openedFrom="C:/Users/Loka/Desktop/Demo Project/Mesh with DFU v1.2(with encoder)/mesh/access/src/access_reliable.c" useBinaryEdit="0" left="0" path="../../../mesh/access/src/access.c" selected="0" top="1031" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="67" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../mesh/access/include/mesh_opt_access.h" selected="0" top="46" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="57" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../mesh/core/include/mesh_opt.h" selected="0" top="46" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../common/src/simple_hal.c" selected="0" top="199" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="121" useTextEdit="1" openedFrom="C:/Users/Loka/Desktop/Demo Project/Mesh with DFU v1.2(with encoder)/examples/light_switch/client/src/main.c" useBinaryEdit="0" left="0" path="../../../../nRF5_SDK_16.0.0_98a08e2/components/libraries/scheduler/app_scheduler.h" selected="0" top="96" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="40" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../nRF5_SDK_16.0.0_98a08e2/components/libraries/scheduler/app_scheduler.c" selected="0" top="35" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="98" useTextEdit="1" openedFrom="C:/Users/Loka/Desktop/Demo Project/Mesh with DFU v1.2(with encoder)/examples/light_switch/client/src/main.c" useBinaryEdit="0" left="0" path="../../../../nRF5_SDK_16.0.0_98a08e2/components/libraries/timer/app_timer.h" selected="0" top="80" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="125" useTextEdit="1" openedFrom="C:/Users/Loka/Desktop/Demo Project/Mesh with DFU v1.2(with encoder)/models/model_spec/generic_onoff/src/generic_onoff_client.c" useBinaryEdit="0" left="0" path="../../../mesh/access/src/access_reliable.c" selected="0" top="96" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="143" useTextEdit="1" openedFrom="C:/Users/Loka/Desktop/Demo Project/Mesh with DFU v1.2(with encoder)/mesh/access/src/access_reliable.c" useBinaryEdit="0" left="0" path="../../../mesh/access/api/access_reliable.h" selected="0" top="124" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="306" useTextEdit="1" openedFrom="C:/Users/Loka/Desktop/Demo Project/Mesh with DFU v1.2(with encoder)/examples/light_switch/client/src/main.c" useBinaryEdit="0" left="0" path="C:/Users/Loka/Desktop/Demo Project/Mesh with DFU v1.2(with encoder)/models/model_spec/generic_onoff/src/generic_onoff_client.c" selected="0" top="306" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="1430" useTextEdit="1" openedFrom="E:/Mesh/Mesh Projects/Mesh SwitchPlate Node/Mesh with DFU v1.2(with encoder)/examples/light_switch/client/src/main.c" useBinaryEdit="0" left="0" path="C:/Users/Loka/Desktop/Demo Project/Mesh with DFU v1.2(with encoder)/examples/light_switch/client/src/main.c" selected="0" top="1409" codecName="Default"/>
+ </Files>
+ <ARMCrossStudioWindow activeProject="light_switch_client_nrf52833_xxAA_s113_7.0.1" fileDialogDefaultFilter="*.c;*.cpp;*.cxx;*.cc;*.h;*.hpp;*.hxx" autoConnectTarget="J-Link" buildConfiguration="Debug" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="C:/Users/Loka/Desktop/NRF MESH/nRF5_SDK_16.0.0_98a08e2/modules/nrfx/drivers/src" debugSearchPath="" autoConnectCapabilities="3199"/>
+</session>
